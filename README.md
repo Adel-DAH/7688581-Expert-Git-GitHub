@@ -63,7 +63,8 @@ code pour feature 2 encore
 
 Code de feature 1
 
-ajout du code de feature 1
+Encore du code pour feature 1
+
 
 ## License
 
