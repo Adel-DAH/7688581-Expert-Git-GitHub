@@ -69,6 +69,8 @@ changement dans develop
 
 un autre changement dans develop
 
+un nouveau changement dans develop
+
 code de la feature merge
 
 encore du code de la feature merge
