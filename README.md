@@ -86,6 +86,6 @@ code feature 4
 code feature 5
 
 
-~### License
+~### License rebase
 code rebase from gitkraken
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
