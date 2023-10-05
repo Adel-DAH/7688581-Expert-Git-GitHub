@@ -67,6 +67,10 @@ Encore du code pour feature 1$
 
 changement dans develop
 
+code de la feature merge
+
+encore du code de la feature merge
+
 
 code rebase
 
